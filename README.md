@@ -9,7 +9,8 @@
 <br>
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuan4576&theme=github-compact&radius=16" height="auto" alt="by fatkhurhhn"/>
-## 📊 My GitHub Stats
+
+
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=tuan4576&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
